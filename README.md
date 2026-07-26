@@ -492,10 +492,12 @@ If no MongoDB is connected, the app runs fully in **sandbox mode**:
 
 ---
 
-## 🤝 Team
+## 👥 Contributors
 
-This project is developed collaboratively with modules assigned to different team members as part of a structured development cycle.
-
+- **Krishna Pandey**
+- **Ayush Tenguriya**
+- **Hrishabh Kumar**
+- **Bruhati Puni**
 ---
 
 ## 📄 License
